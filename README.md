@@ -8,16 +8,16 @@ Time spent: **28** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ x] User can **compose and post a new tweet**
-  - [x ] User can click a “Compose” icon in the Action Bar on the top right
-  - [ x] User can then enter a new tweet and post this to twitter
-  - [ x] User is taken back to home timeline with **new tweet visible** in timeline
-  - [ x] Newly created tweet should be manually inserted into the timeline and not rely on a full refresh
-  - [x ] User can **see a counter with total number of characters left for tweet** on compose tweet page
+- [x] User can **compose and post a new tweet**
+  - [x] User can click a “Compose” icon in the Action Bar on the top right
+  - [x] User can then enter a new tweet and post this to twitter
+  - [x] User is taken back to home timeline with **new tweet visible** in timeline
+  - [x] Newly created tweet should be manually inserted into the timeline and not rely on a full refresh
+  - [x] User can **see a counter with total number of characters left for tweet** on compose tweet page
 
 The following **optional** features are implemented:
 
-- [x ] Use Parcelable instead of Serializable using the popular [Parceler library](http://guides.codepath.org/android/Using-Parceler).
+- [x] Use Parcelable instead of Serializable using the popular [Parceler library](http://guides.codepath.org/android/Using-Parceler).
 - [ ] Enable your app to receive implicit intents from other apps. When a link is shared from a web browser, it should pre-fill the text and title of the web page when composing a tweet. 
 
 
